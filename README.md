@@ -1,6 +1,6 @@
 NỘI DUNG
 ---
-0. Cài đặt Suricata
+0. Cài đặt Suricata trên Ubuntu 22.04
 1. Test chức năng chính của Suricata sau cài đặt
 2. Giải thích các loại log của Suricata
 3. Giải thích rule của Suricata
